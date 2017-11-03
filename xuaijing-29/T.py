@@ -16,7 +16,7 @@ class Student:
       print "Name : ", self.name,  ",Stu_num: ", self.stu_num
       
    def displayStu(self):
-      print ",Name:",self.name
+      print "Name:",self.name
       
    def  displaydance(self):
-      print "Male:",self.male, ",Name : ", self.name
+      print "Male:",self.male, ",Name: ", self.name
