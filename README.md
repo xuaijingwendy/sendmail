@@ -1,5 +1,2 @@
-import smtplib
-import email.mime.multipart
-import email.mime.text
-
-msg=memail.mime.multipart.MIMEMutipaart()
+http://blog.csdn.net/glaceshell/article/details/52960409
+（更换用户的方法）
