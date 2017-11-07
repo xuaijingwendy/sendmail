@@ -1,5 +1,8 @@
-import smtplib
-import email.mime.multipart
-import email.mime.text
+cd
+git clone http
+git commit -m "first commit"
+git config user.email ""
+git config user.name ""
 
-msg=memail.mime.multipart.MIMEMutipaart()
+git add .
+git commit -m "first commit"
