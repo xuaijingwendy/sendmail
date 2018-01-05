@@ -7,3 +7,6 @@
 #### git add .
 #### git commit -m "first commit"
 #### git push -u origin master
+#解决方案
+####git branch --set-upstream-to=origin/master master
+####git  pull
